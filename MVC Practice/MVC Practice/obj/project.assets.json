@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\A2SV\\Projects\\MVC Practice\\MVC Practice\\MVC Practice.csproj",
+      "projectUniqueName": "E:\\A2SV\\Projects\\.NET-Track\\MVC Practice\\MVC Practice\\MVC Practice.csproj",
       "projectName": "MVC Practice",
-      "projectPath": "E:\\A2SV\\Projects\\MVC Practice\\MVC Practice\\MVC Practice.csproj",
+      "projectPath": "E:\\A2SV\\Projects\\.NET-Track\\MVC Practice\\MVC Practice\\MVC Practice.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\A2SV\\Projects\\MVC Practice\\MVC Practice\\obj\\",
+      "outputPath": "E:\\A2SV\\Projects\\.NET-Track\\MVC Practice\\MVC Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
