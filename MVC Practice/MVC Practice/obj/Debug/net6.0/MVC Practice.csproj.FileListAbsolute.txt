@@ -1,0 +1,31 @@
+E:\A2SV\Projects\MVC Practice\MVC Practice\bin\Debug\net6.0\appsettings.Development.json
+E:\A2SV\Projects\MVC Practice\MVC Practice\bin\Debug\net6.0\appsettings.json
+E:\A2SV\Projects\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.staticwebassets.runtime.json
+E:\A2SV\Projects\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.exe
+E:\A2SV\Projects\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.deps.json
+E:\A2SV\Projects\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.runtimeconfig.json
+E:\A2SV\Projects\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.dll
+E:\A2SV\Projects\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.pdb
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.csproj.AssemblyReference.cache
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.AssemblyInfoInputs.cache
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.AssemblyInfo.cs
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.csproj.CoreCompileInputs.cache
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.MvcApplicationPartsAssemblyInfo.cache
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.RazorAssemblyInfo.cache
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.RazorAssemblyInfo.cs
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets\msbuild.MVC Practice.Microsoft.AspNetCore.StaticWebAssets.props
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC Practice.props
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC Practice.props
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC Practice.props
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets.pack.json
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets.build.json
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets.development.json
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\scopedcss\bundle\MVC Practice.styles.css
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\scopedcss\projectbundle\MVC Practice.bundle.scp.css
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.dll
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\refint\MVC Practice.dll
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.pdb
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.genruntimeconfig.cache
+E:\A2SV\Projects\MVC Practice\MVC Practice\obj\Debug\net6.0\ref\MVC Practice.dll
