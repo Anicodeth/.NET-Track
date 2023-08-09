@@ -1,6 +1,4 @@
 
-
-```markdown
 <h1 align="center">Blog API</h1>
 
 <p align="center">
@@ -87,9 +85,5 @@ Contributions are welcome! If you find any issues or want to enhance the API, fo
 3. Implement your changes.
 4. Open a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-```
 
-This template now features the title "Blog API" throughout the README. As before, make sure to replace placeholders like `yourusername` and `blog-api` with your actual GitHub username and repository name. You can also replace `"path/to/your/logo.png"` with the actual path to your logo image.
