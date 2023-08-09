@@ -2,7 +2,7 @@
 <h1 align="center">Blog API</h1>
 
 <p align="center">
-  <img src="path/to/your/logo.png" alt="API Logo" width="200" height="200">
+  <img src="https://github.com/Anicodeth/.NET-Track/blob/main/Blog%20API/Api%20Endpoints.png" alt="API Logo" width="200" height="200">
 </p>
 
 <p align="center">Welcome to the Blog API! This API provides endpoints to manage blog posts and comments for a simple blogging platform. It allows you to perform CRUD (Create, Read, Update, Delete) operations on both blog posts and comments.</p>
@@ -34,8 +34,8 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/blog-api.git
-   cd blog-api
+   git clone https://github.com/anicodeth/.NET-Track.git
+   cd .NET-Track
    ```
 
 2. Configure the database connection:
