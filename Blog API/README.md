@@ -2,7 +2,7 @@
 <h1 align="center">Blog API</h1>
 
 <p align="center">
-  <img src="https://github.com/Anicodeth/.NET-Track/blob/main/Blog%20API/Api%20Endpoints.png" alt="API Logo" width="200" height="500">
+  <img src="https://github.com/Anicodeth/.NET-Track/blob/main/Blog%20API/Api%20Endpoints.png" alt="API Logo"  height="500">
 </p>
 
 <p align="center">Welcome to the Blog API! This API provides endpoints to manage blog posts and comments for a simple blogging platform. It allows you to perform CRUD (Create, Read, Update, Delete) operations on both blog posts and comments.</p>
