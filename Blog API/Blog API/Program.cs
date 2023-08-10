@@ -17,6 +17,9 @@ builder.Services.AddDbContext<BlogDbContext>(options =>
     options.UseNpgsql(connectionString);
 });
 
+builder.Services.AddDbContext<BlogDbContext>(options =>
+    options.UseInMemoryDatabase("TestDatabase"));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
