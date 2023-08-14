@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BlogApi.Core/1.0.0": {
+        "dependencies": {
+          "BlogApi.Shared": "1.0.0"
+        },
+        "runtime": {
+          "BlogApi.Core.dll": {}
+        }
+      },
+      "BlogApi.Shared/1.0.0": {
+        "runtime": {
+          "BlogApi.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlogApi.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlogApi.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
