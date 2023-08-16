@@ -13,3 +13,5 @@ E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Core\obj\Debug\net7.0\B
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Core\obj\Debug\net7.0\refint\BlogApi.Core.dll
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Core\obj\Debug\net7.0\BlogApi.Core.pdb
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Core\obj\Debug\net7.0\ref\BlogApi.Core.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Core\bin\Debug\net7.0\BlogApi.Core.runtimeconfig.json
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Core\obj\Debug\net7.0\BlogApi.Core.genruntimeconfig.cache

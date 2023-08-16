@@ -10,3 +10,5 @@ E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Shared\obj\Debug\net7.0
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Shared\obj\Debug\net7.0\refint\BlogApi.Shared.dll
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Shared\obj\Debug\net7.0\BlogApi.Shared.pdb
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Shared\obj\Debug\net7.0\ref\BlogApi.Shared.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Shared\bin\Debug\net7.0\BlogApi.Shared.runtimeconfig.json
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.Shared\obj\Debug\net7.0\BlogApi.Shared.genruntimeconfig.cache

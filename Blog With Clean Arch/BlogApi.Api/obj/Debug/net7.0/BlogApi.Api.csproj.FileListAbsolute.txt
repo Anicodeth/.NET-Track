@@ -19,7 +19,6 @@ E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\Bl
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\BlogApi.Api.AssemblyInfoInputs.cache
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\BlogApi.Api.AssemblyInfo.cs
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\BlogApi.Api.csproj.CoreCompileInputs.cache
-E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\BlogApi.Api.MvcApplicationPartsAssemblyInfo.cs
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\BlogApi.Api.MvcApplicationPartsAssemblyInfo.cache
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\staticwebassets\msbuild.BlogApi.Api.Microsoft.AspNetCore.StaticWebAssets.props
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\staticwebassets\msbuild.build.BlogApi.Api.props
@@ -35,3 +34,19 @@ E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\re
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\BlogApi.Api.pdb
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\BlogApi.Api.genruntimeconfig.cache
 E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\obj\Debug\net7.0\ref\BlogApi.Api.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\bin\Debug\net7.0\Npgsql.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\bin\Debug\net7.0\BlogApi.Infrastructure.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\blogapi.api\bin\Debug\net7.0\BlogApi.Infrastructure.pdb
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\obj\Debug\net7.0\BlogApi.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\bin\Debug\net7.0\Humanizer.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\bin\Debug\net7.0\System.CodeDom.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\bin\Debug\net7.0\Castle.Core.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\bin\Debug\net7.0\Moq.dll
+E:\A2SV\Projects\.NET-Track\Blog With Clean Arch\BlogApi.api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll

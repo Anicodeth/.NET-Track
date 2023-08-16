@@ -10,7 +10,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.10" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.5.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.4" />
     <PackageReference Include="xunit" Version="2.4.2" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.5">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -23,7 +30,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BlogApi.Core\BlogApi.Core.csproj" />
+    <ProjectReference Include="..\BlogApi.Core\BlogApi.Core.csproj" />	  
+    <ProjectReference Include="..\blogapi.infrastructure\blogapi.infrastructure.csproj" />
+    <ProjectReference Include="..\blogapi.api\blogapi.api.csproj" />
   </ItemGroup>
 
 </Project>
