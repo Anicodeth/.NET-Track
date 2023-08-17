@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gAPRiOxLDTdvFsCGknXi00Gc/iHUUYx6CL7pyH3k2P5MkKgkGVihf1pSps7kcgxIYYYoFUReuK7xi9k3sSNIVw==",
+  "dgSpecHash": "v6xpvNbxN52kheiZ9Ky74jlDCNByI9Mvw0SID1lCLrUlUfizKgqUQhywSOG7cq/BzpLNyxLNFIw4WMxge5l16Q==",
   "success": true,
   "projectFilePath": "E:\\A2SV\\Projects\\.NET-Track\\Blog With Clean Arch\\BlogApi.Shared\\BlogApi.Shared.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.10\\microsoft.entityframeworkcore.analyzers.7.0.10.nupkg.sha512",
